@@ -1,4 +1,4 @@
-# fileshow ![alt tag](/source/logo.png)
+# fileshow ![alt tag](/source/logo.png =1x)
 A menubar-applet for quick hide/show of hidden files in OS X
 
 ## Requirements
