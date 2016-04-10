@@ -1,4 +1,4 @@
-# fileshow ![alt tag](fileShow/source/Jakobs Tools/logo.png)
+# fileshow ![alt tag](fileShow/source/logo.png)
 A menubar-applet for quick hide/show of hidden files in OS X
 
 ## Requirements
