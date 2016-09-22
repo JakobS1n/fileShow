@@ -1,6 +1,8 @@
 # ![alt tag](/source/64x64.png) fileshow 
 A menubar-applet for quick hide/show of hidden files in OS X
 
+**It look like you have to download, and compile from the source for it to work properly. I will work on fixing this!**
+
 ## Requirements
  - Tested with OS X El Capitan
 
