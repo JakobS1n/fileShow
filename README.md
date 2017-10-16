@@ -1,7 +1,9 @@
+**The applet does for some reason not work with the first version on MAC OS and up, but i won't make a new version beause Apple hase added a shortcut for toggling hidden files.**
+
+**Use `CMD + SHIFT + .` instead!**
+
 # ![alt tag](/source/64x64.png) fileshow 
 A menubar-applet for quick hide/show of hidden files in OS X
-
-**Seems like it won't work with MacOS 10 and up :(**
 
 ## Requirements
  - Tested with OS X El Capitan
@@ -16,6 +18,6 @@ At the moment there is no way to exit the application other than killing the pro
 ## contributions
 All code is stored in a file called `App-Delegate.swift`. Feel free to commit!
 
-## Todo
-  - Add a menu
-  - Add exit-function
+## ~~Todo~~
+  - ~~Add a menu~~
+  - ~~Add exit-function~~
